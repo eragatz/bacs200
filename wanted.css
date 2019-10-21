@@ -1,0 +1,43 @@
+body{
+    align-items: center;
+    font-family: courier;
+    font-size: 24px;
+    background-image: url(https://image.freepik.com/free-photo/brown-old-paper-texture-vintage-paper-background_43379-476.jpg);
+    
+}
+
+main{
+    margin:auto;
+    border: 1px solid black;
+    box-shadow: 1px;
+    align-content: center;
+    text-align: center;
+    width: 80%;
+    max-width: 800px;   
+    
+}
+
+#side-menu {
+    margin: 10px;
+    float: right;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    text-align: center;
+    
+}
+
+
+ul{
+    text-align: center;
+}
+
+header{
+    background-color: #654321;
+    color: lightgray;
+    
+    
+}
+
+img{
+    border: 2px solid white;
+}

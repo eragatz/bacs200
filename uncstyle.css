@@ -1,0 +1,24 @@
+h1{
+    color: green;
+    font-size: 300%;
+    text-align: center;
+    margin: 1em;
+}
+
+h2{
+    color:blue;
+    background-color: gray;
+}
+
+table {
+    box-shadow: 2px 2px 5px gray;
+    border-style: solid;
+    border-color: blue;
+    padding: 3em;
+    
+}
+
+img {
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 20px;
+}
